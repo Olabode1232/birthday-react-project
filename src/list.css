@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+}
+.person {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin: 25px;
+    /* display: grid; */
+    /* grid-template-columns: auto 1fr; */
+    /* column-gap: 0.75rem; */
+    /* margin-bottom: 1.5rem; */
+    /* align-items: center; */
+  }
+  .image{
+      width: 45px;
+      height: 45px;
+      border-radius: 45%;
+  }
